@@ -4,6 +4,5 @@ hide:
   - toc
 ---
 
-# Olympic Games EDA
-
+# Title: Olympic Games EDA
 
