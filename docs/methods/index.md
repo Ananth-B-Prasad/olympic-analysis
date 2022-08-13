@@ -26,6 +26,6 @@ df_21_full[['Rank','Team/NOC','Bronze Medal','Silver Medal','Gold Medal','Total'
 ```
 
 So, after I ran this code, the following image is shown:
-https://imgur.com/a/QiRQ9GR
+https://imgur.com/qiEmjFF
 
 the same trend is seen in most of the other summer olympics as well.

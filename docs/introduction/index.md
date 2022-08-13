@@ -12,4 +12,7 @@ Software tool: Use of maptlotlib, seaborn and folium.
 
 Dataset taken from: https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
 
-Reference: http://surl.li/crkuh
+Reference (codes taken from this site): http://surl.li/crku
+
+Note: 1)I wasn't able to paste images of the result, so sent the link of it instead
+      2)I couldn't load my csv file to Jupiter, so I did it with 3rd party sites
