@@ -10,9 +10,9 @@ we know that several nations seem to consistently perform well at the Olympic ga
 
 It's now time to shift focus to those who have hosted the games.
 
-fig, ax = plt.subplots(1,1, figsize=(11, 5), facecolor=background_color)
-
+(code taken from reference)
 ```python
+fig, ax = plt.subplots(1,1, figsize=(11, 5), facecolor=background_color)
 # top 20
 top_list_ = df_new.groupby('region')['Total Medals'].mean().sort_values(ascending=False).reset_index()[:20].sort_values(by='Total Medals',ascending=True)
 
