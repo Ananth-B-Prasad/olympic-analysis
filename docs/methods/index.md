@@ -4,7 +4,7 @@ hide:
   - toc
 ---
 
-# Recognition
+# Recognition of Trend
 
 (code taken from reference)
 
