@@ -4,15 +4,21 @@ hide:
   - toc
 ---
 
-# Methods
+# Recognition
 
-Write an overview of your methods.
+(code taken from reference)
 
-- [Video Game Analysis in Jupyter Lite](https://videogameanalysis.netlify.app/live/lab/index.html)
-- [Video Game Analysis in Google Colab](https://githubtocolab.com/hurb404/research-paper-template-saket)
+def highlight(nation):
+    if nation['Team/NOC'] == 'Japan':
+        return ['background-color: #f3f2f1']*6
+    else:
+        return ['background-color: white']*6
 
-State the research questions:
+df_21_full[['Rank','Team/NOC','Bronze Medal','Silver Medal','Gold Medal','Total']].iloc[:15].style.set_caption('Medals by Country: Summer Olympic Games sorted by Gold Medals [Top 15]')\
+.bar(subset=['Gold Medal'], color='#f0c05a')\
+.bar(subset=['Silver Medal'], color='Lightgray')\
+.bar(subset=['Bronze Medal'], color='#a97142')\
+.hide_index().apply(highlight, axis=1)
 
-- **RQ1**: write out the first research question
-- **RQ2**: write out the second research question
-- **RQ3**: write out the third research question
+So, after I ran this code, the following image is shown
+
