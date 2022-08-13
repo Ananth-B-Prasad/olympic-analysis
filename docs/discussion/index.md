@@ -6,8 +6,4 @@ hide:
 
 # Discussion
 
-Discuss the meaning behind the trends in the data set.
-
-Explain why the trends in the data set are evident.
-
-Identify the threats to validity and explain how you handled them.
+As shown earlier, there is a clear trend in the data that 
