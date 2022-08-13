@@ -4,5 +4,5 @@ hide:
   - toc
 ---
 
-# Title: Olympic Games EDA
+# Title: Does hosting the Olympics improve performance in the medals table?
 
