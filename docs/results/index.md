@@ -52,4 +52,4 @@ ax.text(0,Yend+1, 'Average', fontsize=10,fontweight='bold',fontfamily='sansserif
 plt.show()
 ```
 
-this is the result: https://imgur.com/gallery/QiRQ9GR
+this is the result: https://imgur.com/iGAJ7cU

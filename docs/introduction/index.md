@@ -6,7 +6,7 @@ hide:
 
 # Introduction
 
-Whilst watching the Olympics in 2021, I was struck by how well the host nation, Japan, were doing. It got me thinking: Does hosting the Olympics improve performance in the medals table? To answer this, I will perform an eda along with some statistical tests.
+Whilst watching the Olympics in 2021, I was struck by how well the host nation, Japan, were doing. It got me thinking: Does hosting the Olympics improve performance in the medals table? To answer this, I will perform an eda.
 
 Software tool: Use of maptlotlib, seaborn and folium.
 
